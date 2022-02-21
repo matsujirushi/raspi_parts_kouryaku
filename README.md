@@ -33,6 +33,15 @@
   * [16章 SPI](python/16)
   * [17章 UART](python/17)
 
+## デモ動画
+
+* パーツ分解・実験編
+  * 8章 ステッピングモーターをきめ細かく制御
+    * [drv8835.mp4](https://youtu.be/fRgU5spVdbM)
+    * [drv8835-2.mp4](https://youtu.be/qHraBlnQ2mE)
+    * [a4988.mp4](https://youtu.be/PEcUD3OVFoM)
+    * [l6470kit.mp4](https://youtu.be/wRkT1fEBPMc)
+
 ## 訂正情報
 
 |ページ|訂正|補足説明|
