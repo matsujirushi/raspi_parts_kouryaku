@@ -4,6 +4,12 @@
 
 <img src="media/1.png">
 
+## 読者のレビューなど
+
+* [書籍「ラズパイ自由自在 電子工作パーツ制御完全攻略」読んでみた / Lang-ship](https://lang-ship.com/blog/work/4296111914/)
+* [【2022年版】ラズベリーパイおすすめの本5選 / そぞら](https://sozorablog.com/raspberrypi_book/)
+* [（動画）【日経BP】LEDのPWM制御【ラズパイ自由自在 電子工作パーツ制御完全攻略】 / ENGINEER](https://youtu.be/LQ05ZXQ2hts)
+
 ## Pythonコード
 
 書籍内に記載されているPythonコードは、下記の一括ダウンロードをクリックするとZIPファイルでダウンロードできます。  
