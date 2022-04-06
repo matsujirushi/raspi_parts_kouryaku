@@ -10,6 +10,7 @@
 * [【2022年版】ラズベリーパイおすすめの本5選 / そぞら](https://sozorablog.com/raspberrypi_book/)
 * [（動画）【日経BP】LEDのPWM制御【ラズパイ自由自在 電子工作パーツ制御完全攻略】 / ENGINEER](https://youtu.be/LQ05ZXQ2hts)
 * [実践と理論で理解を深める「ラズパイ自由自在 電子工作パーツ制御完全攻略」 / fabcross](https://fabcross.jp/news/2022/20220330_nikkeibp_hintbook.html)
+* [「ラズパイ、M5Stack、Arduino」の特徴、選び方、使い方を解説 / SORACOM](https://blog.soracom.com/ja-jp/2022/04/06/soracom-device-meetup-8-report/)
 
 ## Pythonコード
 
